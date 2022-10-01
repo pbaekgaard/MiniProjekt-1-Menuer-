@@ -1,1 +1,1 @@
-# MiniProjekt-1-Menuer-
+# Mini Projekt (Menuer)
