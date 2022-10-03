@@ -28,6 +28,7 @@ namespace Menu2
             {
                 MainMenu.Add(new FileSystemMenu("Browse Desktop Folder", new DirectoryInfo(KnownFolders.Desktop.Path)));
             }
+
             MainMenu.Start();
         }
     }

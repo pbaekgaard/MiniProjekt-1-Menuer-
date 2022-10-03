@@ -45,6 +45,7 @@ public class MenuItem : IMenuItem
             switch (Console.ReadKey().Key)
             {
                 case ConsoleKey.Escape:
+                case ConsoleKey.Backspace:    
                 case ConsoleKey.Enter:
                     _menuOn = false;
                     break;

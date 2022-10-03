@@ -37,17 +37,22 @@ public class Menu : IMenuItem
 
     private void HandleInput()
     {
+        _running = true;
         ConsoleKey keyPressed;
         ConsoleKeyInfo keyInfo = ReadKey();
         keyPressed = keyInfo.Key;
         switch (keyPressed)
         {
             case ConsoleKey.Backspace:
+            {
+                _running = false;
+                break;
+            }
             case ConsoleKey.Escape:
-                {
-                    _running = false;
-                    break;
-                }
+            {
+                Environment.Exit(1);
+                break;
+            }
             case ConsoleKey.UpArrow:
                 selected = selected == 0 ? MenuItems.Count - 1 : selected - 1;
                 break;
