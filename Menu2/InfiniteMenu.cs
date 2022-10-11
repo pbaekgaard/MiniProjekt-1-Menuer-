@@ -1,5 +1,3 @@
-using System.ComponentModel.Design;
-using System.Runtime.InteropServices.ComTypes;
 using static System.Console;
 namespace Menu2;
 public class InfiniteMenu : IMenuItem

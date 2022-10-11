@@ -1,7 +1,4 @@
-using System.ComponentModel.Design;
-using System.Data.SqlTypes;
 using System.Diagnostics;
-using System.Runtime.InteropServices;
 
 public class FileItem : IMenuItem
 {
@@ -29,7 +26,7 @@ public class FileItem : IMenuItem
     {
         new Process
         {
-            StartInfo = new ProcessStartInfo($"{_File.Directory+"/"+_File.Name}")
+            StartInfo = new ProcessStartInfo($"{_File.Directory + "/" + _File.Name}")
             {
                 UseShellExecute = true
             }

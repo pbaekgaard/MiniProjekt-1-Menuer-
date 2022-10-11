@@ -1,6 +1,3 @@
-using System.ComponentModel.Design;
-using System.Data.SqlTypes;
-using System.Runtime.InteropServices;
 
 public interface IMenuItem
 {
@@ -45,7 +42,7 @@ public class MenuItem : IMenuItem
             switch (Console.ReadKey().Key)
             {
                 case ConsoleKey.Escape:
-                case ConsoleKey.Backspace:    
+                case ConsoleKey.Backspace:
                 case ConsoleKey.Enter:
                     _menuOn = false;
                     break;

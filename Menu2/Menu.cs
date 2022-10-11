@@ -1,5 +1,3 @@
-using System.ComponentModel.Design;
-using System.Runtime.InteropServices.ComTypes;
 using static System.Console;
 namespace Menu2;
 public class Menu : IMenuItem
@@ -44,15 +42,15 @@ public class Menu : IMenuItem
         switch (keyPressed)
         {
             case ConsoleKey.Backspace:
-            {
-                _running = false;
-                break;
-            }
+                {
+                    _running = false;
+                    break;
+                }
             case ConsoleKey.Escape:
-            {
-                Environment.Exit(1);
-                break;
-            }
+                {
+                    Environment.Exit(1);
+                    break;
+                }
             case ConsoleKey.UpArrow:
                 selected = selected == 0 ? MenuItems.Count - 1 : selected - 1;
                 break;

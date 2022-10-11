@@ -1,7 +1,4 @@
-﻿using System;
-using System.ComponentModel.Design;
-using System.Reflection;
-using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
 using Microsoft.WindowsAPICodePack.Shell;
 
 namespace Menu2
@@ -20,14 +17,9 @@ namespace Menu2
             SubMenu.Add(new MenuItem("SUUUUUB Et lidt længere menupunkt", "Indhold af punkt 3... det er indtil videre også bare tekst"));
             MainMenu.Add(SubMenu);
             MainMenu.Add(new InfiniteMenu("Uendelig menu"));
-            if (RuntimeInformation.IsOSPlatform(OSPlatform.Linux))
-            {
-                MainMenu.Add(new FileSystemMenu("Browse ~/ directory", new DirectoryInfo("/home/flcky98/")));
-            }
-            else
-            {
-                MainMenu.Add(new FileSystemMenu("Browse Desktop Folder", new DirectoryInfo(KnownFolders.Desktop.Path)));
-            }
+            MainMenu.Add(RuntimeInformation.IsOSPlatform(OSPlatform.Linux)
+                ? new FileSystemMenu("Browse ~/ directory", new DirectoryInfo("/home/flcky98/"))
+                : new FileSystemMenu("Browse Desktop Folder", new DirectoryInfo(KnownFolders.Desktop.Path)));
 
             MainMenu.Start();
         }

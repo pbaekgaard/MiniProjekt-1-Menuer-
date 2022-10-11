@@ -1,6 +1,3 @@
-using System.ComponentModel.Design;
-using System.IO.Compression;
-using System.Runtime.InteropServices.ComTypes;
 using static System.Console;
 namespace Menu2;
 public class FileSystemMenu : IMenuItem
@@ -68,6 +65,16 @@ public class FileSystemMenu : IMenuItem
         Console.SetCursorPosition((Console.WindowWidth - printString.Length) / 2, Console.CursorTop);
         Console.WriteLine(printString);
     }
+    public void CenterPrintFile(string printString)
+    {
+        Console.Write('\n');
+        BackgroundColor = ConsoleColor.Black;
+        ForegroundColor = ConsoleColor.White;
+        Console.SetCursorPosition((Console.WindowWidth - printString.Length) / 2, Console.CursorTop);
+        BackgroundColor = ConsoleColor.Red;
+        ForegroundColor = ConsoleColor.Black;
+        Console.Write(printString);
+    }
     public bool IsFile()
     {
         return false;
@@ -88,20 +95,21 @@ public class FileSystemMenu : IMenuItem
                 ForegroundColor = ConsoleColor.Black;
                 CenterPrint($"{prefix}{item.Title()}{postfix}");
                 // Console.WriteLine($"{prefix}{item.Title()}{postfix}");
-            } else if (item.IsFile())
+            }
+            else if (item.IsFile())
             {
-                BackgroundColor = ConsoleColor.Red;
-                ForegroundColor = ConsoleColor.Black;
-                CenterPrint($"{prefix}{item.Title()}{postfix}");
-            } else
+
+                CenterPrintFile($"{prefix}{item.Title()}{postfix}");
+            }
+            else
             {
                 BackgroundColor = ConsoleColor.Black;
                 ForegroundColor = ConsoleColor.White;
                 CenterPrint(item.Title());
                 // Console.WriteLine(item.Title());
             }
+            Console.ResetColor();
         }
-        Console.ResetColor();
     }
 
     public void Select()
@@ -109,7 +117,7 @@ public class FileSystemMenu : IMenuItem
         Console.WriteLine(MenuItems.Count);
         foreach (DirectoryInfo folder in Folders)
         {
-            MenuItems.Add( new FileSystemMenu(folder.Name, new DirectoryInfo($"{folder.Parent+"/"+folder.Name}")));
+            MenuItems.Add(new FileSystemMenu(folder.Name, new DirectoryInfo($"{folder.Parent + "/" + folder.Name}")));
             // Console.WriteLine(folder.Name);
         }
 
@@ -118,7 +126,7 @@ public class FileSystemMenu : IMenuItem
             MenuItems.Add(new FileItem(file.Name, file));
         }
         Console.WriteLine(MenuItems.Count);
-        
+
         do
         {
             DrawMenu();
