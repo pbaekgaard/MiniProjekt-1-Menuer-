@@ -18,7 +18,7 @@ namespace Menu2
             MainMenu.Add(SubMenu);
             MainMenu.Add(new InfiniteMenu("Uendelig menu"));
             MainMenu.Add(RuntimeInformation.IsOSPlatform(OSPlatform.Linux)
-                ? new FileSystemMenu("Browse ~/ directory", new DirectoryInfo("/home/flcky98/"))
+                ? new FileSystemMenu("Browse ~/ directory", new DirectoryInfo("/home/baekgaard/"))
                 : new FileSystemMenu("Browse Desktop Folder", new DirectoryInfo(KnownFolders.Desktop.Path)));
 
             MainMenu.Start();

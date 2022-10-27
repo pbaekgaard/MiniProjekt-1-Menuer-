@@ -40,3 +40,45 @@ C:/Users/peter/OneDrive - Aalborg Universitet/3. Semester/2. COURSES/2. OOP/04. 
 C:/Users/peter/OneDrive - Aalborg Universitet/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/Menu2/Menu2/obj/Debug/net6.0/Menu2.pdb
 C:/Users/peter/OneDrive - Aalborg Universitet/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/Menu2/Menu2/obj/Debug/net6.0/Menu2.genruntimeconfig.cache
 C:/Users/peter/OneDrive - Aalborg Universitet/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/Menu2/Menu2/obj/Debug/net6.0/ref/Menu2.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.deps.json
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.runtimeconfig.json
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/ref/Menu2.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.pdb
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.Sensors.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.Shell.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.ShellExtensions.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.csproj.AssemblyReference.cache
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.GeneratedMSBuildEditorConfig.editorconfig
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.AssemblyInfoInputs.cache
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.AssemblyInfo.cs
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.csproj.CoreCompileInputs.cache
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.csproj.CopyComplete
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/ref/Menu2.dll
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.pdb
+/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.genruntimeconfig.cache
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.csproj.AssemblyReference.cache
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.GeneratedMSBuildEditorConfig.editorconfig
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.AssemblyInfoInputs.cache
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.AssemblyInfo.cs
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.csproj.CoreCompileInputs.cache
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/ref/Menu2.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.pdb
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.deps.json
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.runtimeconfig.json
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/ref/Menu2.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Menu2.pdb
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.Sensors.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.Shell.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.ShellExtensions.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/bin/Debug/net6.0/Microsoft.WindowsAPICodePack.dll
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.csproj.CopyComplete
+/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/Debug/net6.0/Menu2.genruntimeconfig.cache

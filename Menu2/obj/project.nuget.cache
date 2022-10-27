@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sm7pnRCeGcSk7o+wed7nmqxTBoTCmYPzWKUh437eQ7/LkBUHl6Jrg+2ChvKZ0Ku0TeZOE9oqYB++bncF8YjMoA==",
+  "dgSpecHash": "ls83ljuWRRHSosxOLdpbH3yivmdsHthm5bKry558uljNTufkVE5sgobPfQsiQWTwGrv7HsZIP27/fl3olxtd3g==",
   "success": true,
-  "projectFilePath": "/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/Menu2/Menu2/Menu2.csproj",
+  "projectFilePath": "/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/Menu2.csproj",
   "expectedPackageFiles": [
-    "/home/flcky98/.nuget/packages/windowsapicodepack/1.1.3/windowsapicodepack.1.1.3.nupkg.sha512",
-    "/home/flcky98/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+    "/home/baekgaard/.nuget/packages/windowsapicodepack/1.1.3/windowsapicodepack.1.1.3.nupkg.sha512",
+    "/home/baekgaard/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
   ],
   "logs": [
     {

@@ -47,19 +47,19 @@
     ]
   },
   "packageFolders": {
-    "/home/flcky98/.nuget/packages/": {}
+    "/home/baekgaard/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/Menu2/Menu2/Menu2.csproj",
+      "projectUniqueName": "/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/Menu2.csproj",
       "projectName": "Menu2",
-      "projectPath": "/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/Menu2/Menu2/Menu2.csproj",
-      "packagesPath": "/home/flcky98/.nuget/packages/",
-      "outputPath": "/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/Menu2/Menu2/obj/",
+      "projectPath": "/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/Menu2.csproj",
+      "packagesPath": "/home/baekgaard/.nuget/packages/",
+      "outputPath": "/home/baekgaard/OneDrive/3. Semester/2. COURSES/2. OOP/04. Mini-Projekt (HovedMenu)/MiniProjekt-1-Menuer-/Menu2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/flcky98/.nuget/NuGet/NuGet.Config"
+        "/home/baekgaard/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -101,7 +101,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.9, 6.0.9]"
+            "version": "[6.0.10, 6.0.10]"
           }
         ],
         "frameworkReferences": {
@@ -109,7 +109,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.110/RuntimeIdentifierGraph.json"
       }
     }
   },
